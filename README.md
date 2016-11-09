@@ -13,12 +13,13 @@ Gunakan API ini untuk mengakses API endpoint kami. Dimana anda bisa mendapatkan 
 ##IP##
 
 **GET all data**
+
 This endpoint retrieves all data.
 
 **HTTP Request**
 
     GET https://sandbox.apiplug.com:8443/tugas8progweb/v1/ip/
-   ----------
+  
 
 **GET Specific data**
 
