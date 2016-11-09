@@ -6,24 +6,21 @@
 	2.15/383239/PA/16899 Kurniawan Eka Nugraha
 	3.15/385650/PA/17039 Muhammad Rasyid Al Faruqi
 
-----------
 
 ##Overview##
 
 Gunakan API ini untuk mengakses API endpoint kami. Dimana anda bisa mendapatkan data sample ip mahasiswa dari database kami.
 
 
-----------
-##IP##
-----------
 
+##IP##​
 **GET all data**
 This endpoint retrieves all data.
 
 **HTTP Request**
 
     GET https://sandbox.apiplug.com:8443/tugas8progweb/v1/ip/
-   ----------
+   
 
 **GET Specific data**
 This endpoint retrieves specific data 
@@ -40,4 +37,4 @@ This endpoint retrieves specific data
 
 
 
-----------
+
