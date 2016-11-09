@@ -31,7 +31,7 @@ This endpoint retrieves specific data
 
  Parameter     | Description                       
  ------------- | ---------------------------------
- NIM           | The NIM of the data to retrieve 
+ NIM           | The NIM of the data to retrieve (1-5)
 
 
 
