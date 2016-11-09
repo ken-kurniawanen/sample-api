@@ -8,7 +8,7 @@
 
 ##Overview##
 
-Gunakan API ini untuk mengakses API endpoint kami. Dimana anda bisa mendapatkan data sample ip mahasiswa dari database kami.
+Merupakan API sederhana dalam nodeJS express framework. Dimana API menyediakan data yang bisa diakses dalam format JSON. Data di database berupa sample data mahasiswa dan ip nya.
 
 ##GET all data##
 
