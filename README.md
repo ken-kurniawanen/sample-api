@@ -10,9 +10,7 @@
 
 Gunakan API ini untuk mengakses API endpoint kami. Dimana anda bisa mendapatkan data sample ip mahasiswa dari database kami.
 
-##IP##
-
-**GET all data**
+##GET all data##
 
 This endpoint retrieves all data.
 
@@ -21,7 +19,7 @@ This endpoint retrieves all data.
     GET https://sandbox.apiplug.com:8443/tugas8progweb/v1/ip/
   
 
-**GET Specific data**
+###GET specific data###
 
 This endpoint retrieves specific data 
 
